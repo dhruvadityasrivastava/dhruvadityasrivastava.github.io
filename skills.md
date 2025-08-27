@@ -4,7 +4,7 @@ layout: default
 
 # Skills
 
-![Skills Banner Image](../Img_D/skills_banner.jpg)
+![Skills Banner Image](./Img_D/skills_banner.jpg)
 
 *   **Wet Lab & Molecular Biology**: Molecular biology, Cloning & vector construction, Nucleic acid extraction, Protein biochemistry, Protein purification, Biochemical assays, Gene knockout, RNAi silencing, Transformation (fungi, bacteria, and plants).
 *   **Data Science & Bioinformatics**: R programming, Python, Shell, Data analysis, Data visualization, Machine learning, NGS analysis (RNA-seq, Microbiome), WGCNA, QIIME.
