@@ -4,7 +4,7 @@ layout: default
 
 # Publications
 
-![Publications Banner Image](../Img_D/publications_banner.jpg)
+![Publications Banner Image](./Img_D/publications_banner.jpg)
 
 *(Total of 11 peer-reviewed publications)*
 1.  Das, D., Tripathi, S., Mutyala, P., Srivastava, D. A., & Bücking, H. (2023). Development and Resource Exchange Processes in Root Symbioses of Legumes. IntechOpen (book chapter). DOI: 10.5772/intechopen.111540

@@ -4,7 +4,7 @@ layout: default
 
 # Research Experience
 
-![Research Banner Image](../Img_D/research_banner.jpg)
+![Research Banner Image](./Img_D/research_banner.jpg)
 
 ### Post-Doctoral Researcher | University of Missouri, Columbia, MO (July 2022–Present)
 *   Spearheaded three successful scientific projects related to RNA-seq research techniques, including complex drought stress RNA sequencing data analysis.
