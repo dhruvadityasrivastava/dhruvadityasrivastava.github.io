@@ -21,4 +21,4 @@ An interdisciplinary scientist with over 12 years of international research expe
 
 ---
 
-[Research Experience](./research.md) | [Publications](./publications.md) | [Skills](./skills.md)
+[Research Experience](./research.md) | [Publications](./publications.md) | [Skills](./skills.md) | [Hobbies and Interests](./hobbies.md)
