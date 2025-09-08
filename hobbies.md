@@ -8,5 +8,5 @@
 
 *   [The AI Advances](https://theaiadvances.com/)
 *   [The AI Advances Team](https://theaiadvances.com/team)
-
+## This page and everything else is protected by me - "Cherry" the Best Corgi in the world 
 [back](./)
